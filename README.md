@@ -12,9 +12,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=Docker&logoColor=white">
-<img src=https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=MyBatis&logoColor=white">
-
-<br>
+<img src="https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=MyBatis&logoColor=white">
 
 # 데이터베이스 설계
 
