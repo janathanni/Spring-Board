@@ -3,8 +3,10 @@
 구현한 기능은 다음과 같습니다. <br>
 회원가입, 로그인, 게시판 작성/조회/수정/삭제, 댓글 작성/조회/수정/삭제, 좋아요/싫어요 
 
+## 개발 기간
+2023-04-28 - 2023-05-26
 
-# 기술 스택
+## 기술 스택
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -14,23 +16,31 @@
 <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=MyBatis&logoColor=white">
 <br>
-# 사용자 요구사항 정의서 
 
-# DB 설계
+## 사용자 요구사항 정의서 
+
+## DB 설계
 ![Board](https://github.com/janathanni/Spring-Board/assets/79269207/798c5306-d1c1-4a8c-97e9-b29b35c9624d)
 
-# DB 명세서
-
-# 회원가입/로그인 UserFlow 
+## DB 명세서
 
 
-# 게시판 UserFlow 
+## 회원가입/로그인 UserFlow 
 
-# 회원정보 UserFlow 
 
-# 구현기능 
-## 회원가입 
-## 로그인
-## 게시판
-## 댓글
-## 좋아요/싫어요 
+## 게시판 UserFlow 
+
+## 회원정보 UserFlow 
+
+## 구현기능 
+### 회원가입 
+### 로그인
+### 게시판
+### 댓글
+### 좋아요/싫어요 
+
+## 보완 할 점 및 아쉬웠던 점
+1. 단순히 공부 목적으롤 만든 것이라서 아쉬웠습니다. 다음에는 조금 더 좋은 아이디어와 결합해서 다른 사람들과 함께 프로젝트를 하고싶습니다. 
+2. 백엔드에 집중해서 프론트엔드에 힘을 더 못 실었습니다. 시간을 들여 프론트를 조금씩 보완해 가다가, 나중에는 예쁜 개인 블로그로 제작하고 싶습니다. 
+3. 쪽지 기능을 넣고 싶었는데, 프로젝트 마감 시간이 촉박해서 넣지 못 했습니다.
+4. OAuth2 로그인을 구현하고 싶었지만, 생각보다 어려워서 구현하지 못 했습니다. Spring Security를 조금 더 공부해서 이후에는 OAuth2 로그인 및 회원가입을 구현하고 싶습니다.
