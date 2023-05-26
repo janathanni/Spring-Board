@@ -12,15 +12,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.3 회원정보](#회원정보) <br>
 [6. 구현 기능](#구현-기능) <br>
 
-# Spring-Board
+# 🧾 Spring-Board
 스프링 프레임워크를 공부하기 위해 만들어본 게시판입니다. <br>
 구현한 기능은 회원가입, 로그인, 게시판 작성/조회/수정/삭제, 댓글 작성/조회/수정/삭제, 좋아요/싫어요입니다. <br>
 마지막으로는 Docker 및 Docker-compose를 이용하여 MariaDB, Apache Tomcat, Apache 컨테이너로 배포 환경을 구축하였습니다. <br>
 
-## 개발 기간
+## 🗓 개발 기간
 2023-04-28 - 2023-05-26
 
-## 기술 스택
+## 🔨 기술 스택
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=MyBatis&logoColor=white">
 <br>
 
-### 문서
+### 📃 문서
 
 ## 사이트맵
 ![제목 없는 다이어그램](https://github.com/janathanni/Spring-Board/assets/79269207/f54d1d77-ba9f-4f01-bc71-e379c31212ff)
@@ -50,7 +50,7 @@
 <br>
 <br>
 
-# 워크플로우
+# 👩‍💼 워크플로우
 ## 회원가입/로그인 UserFlow 
 ![image](https://github.com/janathanni/Spring-Board/assets/79269207/875fb5b9-7006-4942-9e50-8180a14fc40e)
 <br>
@@ -65,7 +65,7 @@
 <br>
 
 
-## 구현 기능
+## 💎 구현 기능
 ### 회원가입
 ### 로그인
 ![제목 없는 프레젠테이션](https://github.com/janathanni/Spring-Board/assets/79269207/fdf9b9b9-ed61-43ac-8798-07c32cee09e9)
