@@ -1,3 +1,17 @@
+## 목차
+[1. 프로젝트 개요](#Spring-Board)
+[2. 개발 기간](#개발-기간)
+[3. 기술 스택](#기술-스택)
+[4. 문서](#문서)
+[4.1 사용자 요구사항 정의서](#사이트맵)
+[4.2 DB 설계](#사용자-요구사항-정의서)
+[4.3 DB 명세서](#DB-명세서)
+[5. 워크플로우](#워크플로우)
+[5.1 회원가입/로그인](#회원가입/로그인)
+[5.2 게시판](#회원가입/로그인)
+[5.3 회원정보](#회원정보)
+[6. 구현 기능](#구현-기능)
+
 # Spring-Board
 스프링 프레임워크를 공부하기 위해 만들어본 게시판입니다. <br>
 구현한 기능은 회원가입, 로그인, 게시판 작성/조회/수정/삭제, 댓글 작성/조회/수정/삭제, 좋아요/싫어요입니다. <br>
@@ -17,6 +31,8 @@
 <img src="https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=MyBatis&logoColor=white">
 <br>
 
+### 문서
+
 ## 사이트맵
 ![제목 없는 다이어그램](https://github.com/janathanni/Spring-Board/assets/79269207/f54d1d77-ba9f-4f01-bc71-e379c31212ff)
 <br>
@@ -33,6 +49,8 @@
 ![Spring Board - 테이블 명세서-1](https://github.com/janathanni/Spring-Board/assets/79269207/479a0236-4783-4964-8c5d-9320a1b012fc)
 <br>
 <br>
+
+# 워크플로우
 ## 회원가입/로그인 UserFlow 
 ![image](https://github.com/janathanni/Spring-Board/assets/79269207/875fb5b9-7006-4942-9e50-8180a14fc40e)
 <br>
@@ -46,21 +64,37 @@
 <br>
 <br>
 
-## 구현기능 화면
-### 회원가입 화면
 
+## 구현 기능
+### 회원가입
+### 로그인
+![제목 없는 프레젠테이션](https://github.com/janathanni/Spring-Board/assets/79269207/fdf9b9b9-ed61-43ac-8798-07c32cee09e9)
+<br>
+### 아이디 찾기
+![제목 없는 프레젠테이션 (1)](https://github.com/janathanni/Spring-Board/assets/79269207/49cfccba-a0e8-4dd3-9e7c-c000a1999341)
+<br>
+### 비밀번호 찾기
+![제목 없는 프레젠테이션 (2)](https://github.com/janathanni/Spring-Board/assets/79269207/32f9ae66-1872-4572-b2bc-ea2780ad215f)
+<br>
+### 게시물 목록 
+![제목 없는 프레젠테이션 (3)](https://github.com/janathanni/Spring-Board/assets/79269207/e883a868-94d3-443b-bc86-64933758940e)
+<br>
 
-### 로그인 화면
+### 게시글 작성
+![제목 없는 프레젠테이션 (5)](https://github.com/janathanni/Spring-Board/assets/79269207/d5ece0c5-c066-47de-bc88-62055c787693)
+<br>
 
+### 게시물 상세 조회 
+![image](https://github.com/janathanni/Spring-Board/assets/79269207/42994671-ec51-4903-afd9-fb0ce6eaf587)
 
-### 게시판 화면
+### 게시물 조회수 갱신
+![제목 없는 프레젠테이션 (4)](https://github.com/janathanni/Spring-Board/assets/79269207/264ac7d5-1096-4d65-ba0a-998f9fecc1d5)
 
+### 댓글 조회/작성/수정/삭제
+![Uploading 제목 없는 프레젠테이션 (5).png…]()
 
-### 댓글 화면
-
-
-### 좋아요/싫어요 화면
- 
+### 좋아요/싫어요 
+ ![제목 없는 프레젠테이션 (6)](https://github.com/janathanni/Spring-Board/assets/79269207/85e860a0-d810-4ad4-b16e-ab93254045aa)
 
 ## 보완 할 점 및 아쉬웠던 점
 1. 단순히 공부 목적으롤 만든 것이라서 아쉬웠습니다. 다음에는 조금 더 좋은 아이디어와 결합해서 다른 사람들과 함께 프로젝트를 하고싶습니다. 
