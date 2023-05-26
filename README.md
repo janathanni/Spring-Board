@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.1 사용자 요구사항 정의서](#사이트맵) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.2 DB 설계](#사용자-요구사항-정의서) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4.3 DB 명세서](#DB-명세서) <br>
-[5. 워크플로우](#워크플로우) <br>
+[5. 유저 플로우](#워크플로우) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.1 회원가입/로그인](#회원가입/로그인) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.2 게시판](#회원가입/로그인) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.3 회원정보](#회원정보) <br>
