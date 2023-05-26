@@ -11,6 +11,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.2 게시판](#회원가입/로그인) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5.3 회원정보](#회원정보) <br>
 [6. 구현 기능](#구현-기능) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.1 회원가입](#회원가입) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.2 로그인](#로그인)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.3 비밀번호 찾기](#아이디-찾기)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6.4 비밀번호 변경 공지](#비밀번호-변경-공지)<br>
+
 
 # 🧾 Spring-Board
 스프링 프레임워크를 공부하기 위해 만들어본 게시판입니다. <br>
@@ -64,27 +69,42 @@
 <br>
 <br>
 
-
 # 💎 구현 기능
 ### 회원가입
 ### 로그인
 ![제목 없는 프레젠테이션](https://github.com/janathanni/Spring-Board/assets/79269207/fdf9b9b9-ed61-43ac-8798-07c32cee09e9)
 ### 아이디 찾기
 ![제목 없는 프레젠테이션 (1)](https://github.com/janathanni/Spring-Board/assets/79269207/49cfccba-a0e8-4dd3-9e7c-c000a1999341)
++ 사용자의 이름과 전화번호를 입력하면 사용자의 아이디를 찾아줍니다. 
 ### 비밀번호 찾기
 ![제목 없는 프레젠테이션 (2)](https://github.com/janathanni/Spring-Board/assets/79269207/32f9ae66-1872-4572-b2bc-ea2780ad215f)
++ 사용자의 아이디와 이메일을 입력하면 사용자에게 임시 비밀번호를 발급해줍니다. 
+### 비밀번호 변겅 공지
++ 사용자의 비밀번호 변경일이 30일 이상이 지났으면, 비밀번호를 변경하도록 하는 페이지를 보여줍니다. 
 ### 게시물 목록 
 ![제목 없는 프레젠테이션 (3)](https://github.com/janathanni/Spring-Board/assets/79269207/e883a868-94d3-443b-bc86-64933758940e)
++ 페이지네이션을 구현하여, 게시물 목록을 사용자에게 보여줍니다. 
 ### 게시글 작성
 ![제목 없는 프레젠테이션 (5)](https://github.com/janathanni/Spring-Board/assets/79269207/d5ece0c5-c066-47de-bc88-62055c787693)
++ 제목 및 게시 내용을 작성하지 않으면 등록하지 않도록 했습니다. 
+### 게시글 수정
++ 본인 게시글만 수정하도록 했습니다. 
 ### 게시물 상세 조회 
 ![image](https://github.com/janathanni/Spring-Board/assets/79269207/42994671-ec51-4903-afd9-fb0ce6eaf587)
 ### 게시물 조회수 갱신
 ![제목 없는 프레젠테이션 (4)](https://github.com/janathanni/Spring-Board/assets/79269207/264ac7d5-1096-4d65-ba0a-998f9fecc1d5)
++ 본인의 게시글을 제외하고, 다른 사람의 게시물을 볼 때만 해당 게시물의 조회수가 증가하도록 처리했습니다. 
+### 게시글 삭제
++ 본인 게시글만 삭제하도록 했습니다. 
 ### 댓글 조회/작성/수정/삭제
 ![제목 없는 프레젠테이션 (7)](https://github.com/janathanni/Spring-Board/assets/79269207/d346aca1-a524-40f0-a64e-99b3883bc690)
++ 본인이 작성한 댓글만 수정/삭제 가능하도록 했습니다. 
 ### 좋아요/싫어요 
 ![제목 없는 프레젠테이션 (6)](https://github.com/janathanni/Spring-Board/assets/79269207/85e860a0-d810-4ad4-b16e-ab93254045aa)
++ 좋아요를 이미 누른 상태에서 싫어요를 누르면, 좋아요가 취소되고 싫어요가 반영된다.
++ 싫어요를 이미 누른 상태에서 좋아요를 누르면, 싫어요가 취소되고 좋아요가 반영된다.
++ 좋아요를 중복해서 누르면 좋아요가 취소된다.
++ 싫어요를 중복해서 누르면 싫어요가 취소된다. 
 
 # 🙋‍♀️보완 할 점 및 아쉬웠던 점
 1. 단순히 공부 목적으로 만든 것이라서 아쉬웠습니다. 다음에는 조금 더 좋은 아이디어 및 기획을 고려해서 다른 사람들과 함께 프로젝트를 하고싶습니다. 
