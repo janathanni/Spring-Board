@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=MyBatis&logoColor=white">
 <br>
 
-### 📃 문서
+## 📃 문서
 
 ## 사이트맵
 ![제목 없는 다이어그램](https://github.com/janathanni/Spring-Board/assets/79269207/f54d1d77-ba9f-4f01-bc71-e379c31212ff)
