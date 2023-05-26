@@ -82,9 +82,9 @@
 ### 게시물 조회수 갱신
 ![제목 없는 프레젠테이션 (4)](https://github.com/janathanni/Spring-Board/assets/79269207/264ac7d5-1096-4d65-ba0a-998f9fecc1d5)
 ### 댓글 조회/작성/수정/삭제
-![Uploading 제목 없는 프레젠테이션 (5).png…]()
+![제목 없는 프레젠테이션 (7)](https://github.com/janathanni/Spring-Board/assets/79269207/d346aca1-a524-40f0-a64e-99b3883bc690)
 ### 좋아요/싫어요 
- ![제목 없는 프레젠테이션 (6)](https://github.com/janathanni/Spring-Board/assets/79269207/85e860a0-d810-4ad4-b16e-ab93254045aa)
+![제목 없는 프레젠테이션 (6)](https://github.com/janathanni/Spring-Board/assets/79269207/85e860a0-d810-4ad4-b16e-ab93254045aa)
 
 ## 보완 할 점 및 아쉬웠던 점
 1. 단순히 공부 목적으롤 만든 것이라서 아쉬웠습니다. 다음에는 조금 더 좋은 아이디어와 결합해서 다른 사람들과 함께 프로젝트를 하고싶습니다. 
