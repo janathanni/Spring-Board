@@ -1,7 +1,6 @@
 # Spring-Board
 스프링 프레임워크를 공부하기 위해 만들어본 게시판입니다. <br>
-구현한 기능은 다음과 같습니다. <br>
-회원가입, 로그인, 게시판 작성/조회/수정/삭제, 댓글 작성/조회/수정/삭제, 좋아요/싫어요 <br>
+구현한 기능은 회원가입, 로그인, 게시판 작성/조회/수정/삭제, 댓글 작성/조회/수정/삭제, 좋아요/싫어요입니다. <br>
 마지막으로는 Docker 및 Docker-compose를 이용하여 MariaDB, Apache Tomcat, Apache 컨테이너로 배포 환경을 구축하였습니다. <br>
 
 ## 개발 기간
@@ -18,16 +17,20 @@
 <img src="https://img.shields.io/badge/MyBatis-FF0000?style=for-the-badge&logo=MyBatis&logoColor=white">
 <br>
 
+## 사이트맵
+![제목 없는 다이어그램](https://github.com/janathanni/Spring-Board/assets/79269207/f54d1d77-ba9f-4f01-bc71-e379c31212ff)
+
 ## 사용자 요구사항 정의서 
+![Spring Board - 테이블 명세서-1](https://github.com/janathanni/Spring-Board/assets/79269207/d997d745-f8ad-4b74-86e4-eb69c2bf332e)
+<br>
 
 ## DB 설계
 ![Board](https://github.com/janathanni/Spring-Board/assets/79269207/798c5306-d1c1-4a8c-97e9-b29b35c9624d)
-
-## 사이트맵
-
+<br>
 
 ## DB 명세서
-
+![Spring Board - 테이블 명세서-1](https://github.com/janathanni/Spring-Board/assets/79269207/479a0236-4783-4964-8c5d-9320a1b012fc)
+<br>
 
 ## 회원가입/로그인 UserFlow 
 
