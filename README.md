@@ -33,11 +33,13 @@
 <br>
 
 ## 회원가입/로그인 UserFlow 
+![image](https://github.com/janathanni/Spring-Board/assets/79269207/875fb5b9-7006-4942-9e50-8180a14fc40e)
 
-
-## 게시판 UserFlow 
+## 게시판 UserFlow
+![image](https://github.com/janathanni/Spring-Board/assets/79269207/8959158d-d59b-40ea-a88f-f2cd7e8ec3b2)
 
 ## 회원정보 UserFlow 
+![image](https://github.com/janathanni/Spring-Board/assets/79269207/9448792d-7e24-4319-813e-dc33d4aea758)
 
 ## 구현기능 
 ### 회원가입 
