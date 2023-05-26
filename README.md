@@ -69,30 +69,20 @@
 ### 회원가입
 ### 로그인
 ![제목 없는 프레젠테이션](https://github.com/janathanni/Spring-Board/assets/79269207/fdf9b9b9-ed61-43ac-8798-07c32cee09e9)
-<br>
 ### 아이디 찾기
 ![제목 없는 프레젠테이션 (1)](https://github.com/janathanni/Spring-Board/assets/79269207/49cfccba-a0e8-4dd3-9e7c-c000a1999341)
-<br>
 ### 비밀번호 찾기
 ![제목 없는 프레젠테이션 (2)](https://github.com/janathanni/Spring-Board/assets/79269207/32f9ae66-1872-4572-b2bc-ea2780ad215f)
-<br>
 ### 게시물 목록 
 ![제목 없는 프레젠테이션 (3)](https://github.com/janathanni/Spring-Board/assets/79269207/e883a868-94d3-443b-bc86-64933758940e)
-<br>
-
 ### 게시글 작성
 ![제목 없는 프레젠테이션 (5)](https://github.com/janathanni/Spring-Board/assets/79269207/d5ece0c5-c066-47de-bc88-62055c787693)
-<br>
-
 ### 게시물 상세 조회 
 ![image](https://github.com/janathanni/Spring-Board/assets/79269207/42994671-ec51-4903-afd9-fb0ce6eaf587)
-
 ### 게시물 조회수 갱신
 ![제목 없는 프레젠테이션 (4)](https://github.com/janathanni/Spring-Board/assets/79269207/264ac7d5-1096-4d65-ba0a-998f9fecc1d5)
-
 ### 댓글 조회/작성/수정/삭제
 ![Uploading 제목 없는 프레젠테이션 (5).png…]()
-
 ### 좋아요/싫어요 
  ![제목 없는 프레젠테이션 (6)](https://github.com/janathanni/Spring-Board/assets/79269207/85e860a0-d810-4ad4-b16e-ab93254045aa)
 
