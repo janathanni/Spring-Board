@@ -43,7 +43,7 @@
 <br>
 <br>
 ## 사용자 요구사항 정의서 
-![Spring Board - 테이블 명세서-1](https://github.com/janathanni/Spring-Board/assets/79269207/d997d745-f8ad-4b74-86e4-eb69c2bf332e)
+![image](https://github.com/janathanni/Spring-Board/assets/79269207/3bf06bf1-a691-42e4-94a3-b1887815cbee)
 <br>
 <br>
 ## DB 설계
