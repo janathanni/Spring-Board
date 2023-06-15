@@ -71,6 +71,9 @@
 
 # 💎 구현 기능
 ## 회원가입
+![image](https://github.com/janathanni/Spring-Board/assets/79269207/094bd288-c684-4f87-b7c9-2b32ba254e42)
+<br> 
+
 ## 로그인
 ![제목 없는 프레젠테이션](https://github.com/janathanni/Spring-Board/assets/79269207/fdf9b9b9-ed61-43ac-8798-07c32cee09e9)
 <br>
